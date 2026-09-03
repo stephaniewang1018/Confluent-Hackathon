@@ -1,0 +1,7 @@
+# Ignore build and local files
+target/
+jars/
+.env
+*.iml
+.vscode/
+.idea/
